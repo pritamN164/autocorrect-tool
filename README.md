@@ -26,21 +26,6 @@ autocorrect-tool/
 │── dataset.csv
 ---
 
-## How to Run
-
-1. Clone the repository:
-   git clone https://github.com/your-username/autocorrect-tool.git
-
-2. Go to the project folder:
-   cd autocorrect-tool
-
-3. Install dependencies:
-   pip install -r requirements.txt
-
-4. Run the application:
-   streamlit run app.py
-
----
 
 ## How It Works
 
