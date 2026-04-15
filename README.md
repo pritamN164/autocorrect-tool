@@ -7,7 +7,7 @@ AI-driven autocorrect tool that improves text accuracy by correcting spelling an
 * Improves text clarity
 * Fast and simple user interface
 * Interactive web application using Streamlit
-
+![App Screenshot](Screenshot 2026-04-15 125759.png)
 ---
 
 ## Technologies Used
